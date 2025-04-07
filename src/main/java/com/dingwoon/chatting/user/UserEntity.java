@@ -27,7 +27,7 @@ public class UserEntity {
     private LocalDateTime deletedAt;
     @Column(nullable = false)
     @Enumerated(EnumType.STRING)
-    private Status status;
+    private UserStatus status;
 
     public User toModel() {
         return User.builder()

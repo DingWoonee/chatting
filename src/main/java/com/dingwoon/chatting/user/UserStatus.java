@@ -1,5 +1,5 @@
 package com.dingwoon.chatting.user;
 
-public enum Status {
+public enum UserStatus {
     ACTIVE, DELETED
 }

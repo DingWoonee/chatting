@@ -16,7 +16,7 @@ public class User {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
     private LocalDateTime deletedAt;
-    private Status status;
+    private UserStatus status;
 
     public void changeNickName(String nickname) {
         this.nickname = nickname != null ? nickname.trim() : "";
