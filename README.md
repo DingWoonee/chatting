@@ -9,6 +9,7 @@
 
 <details>
   <summary><h2>이벤트 스토밍</h2>  (업데이트: 2025.04.13.)</summary>
+  
   ![Image](https://github.com/user-attachments/assets/5ac88ff2-c47f-4673-b912-29991f6c4ef7)
 </details>
 
